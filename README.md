@@ -1,0 +1,3 @@
+This is data science repository in which there are various kinds of practical that i have been practicing. <br>
+eg-<br>
+Statisctics, Anova test, Finding co-relation, Skewness and kurtosis,etc....
